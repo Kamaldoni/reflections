@@ -1,0 +1,12 @@
+git log
+
+git commit
+
+git status
+
+git checkout
+
+git diff
+
+git diff --staged
+
